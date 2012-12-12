@@ -339,7 +339,7 @@ abstract class scbAdminPage {
 			'icon_url' => '',
 			'screen_icon' => '',
 			'parent' => 'options-general.php',
-			'capability' => 'manage_options',
+			'capability' => 'edit_posts',
 			'menu_title' => $this->args['page_title'],
 			'page_slug' => '',
 			'nonce' => '',
